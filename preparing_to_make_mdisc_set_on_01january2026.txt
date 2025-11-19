@@ -19,4 +19,4 @@ A single unwritten 25 gigabyte M_DISC has a data storage capacity sufficient to 
 Sincerely,
 karbytes
 
-(*) The aforementioned process (of burning three (or more) M_DISCs which each contain the entire contents of karbytes (as that data collection is configured at 11:59PM Pacific Standard Time on the last day in which the aforementioned “micro directory” and accompanying GitHub repository is closed to further changes)) is expected to take no longer than twelve months to complete (starting at the time this web page was first published (and the day this web page was first published is 01_JANUARY_2026)).
+(*) The aforementioned process (of burning three (or more) M_DISCs which each contain the entire contents of karbytes (as that data collection is configured at 11:59PM Pacific Standard Time on the last day in which the aforementioned “micro directory” and accompanying GitHub repository is closed to further changes)) is expected to take no longer than twelve months to complete (starting at the time this web page was first published (and the day this web page was first published is 18_NOVEMBER_2025)).
