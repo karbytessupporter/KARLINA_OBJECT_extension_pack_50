@@ -1,0 +1,20 @@
+/**
+ * file: journal_karbytes_24november2025_p0.txt
+ * type: plain-text
+ * date: 24_NOVEMBER_2025
+ * author: karbytes
+ * license: PUBLIC_DOMAIN
+ */
+
+To Whom It May Concern:
+
+In order to make archiving incremental updates to the karbytes web-hosted filed collection easier to count and list in a consistent, verbally succinct, and chronologically ordered manner, the following new convention is being used to label M_DISC backups of karbytes updates which are not finalized version releases (such as karbytes2026_0 (which is finalized when KARLINA_OBJECT_extension_pack_50 and possibly some other micro-directories in karbytes2026_0 are officially closed to further edits)):
+
+// karbytes incremental saves M_DISC labeling convention (as of 24_NOVEMBER_2025)
+[karbytes_25gb_mdisc_version_name]_[date_value]
+
+// real-world example (representing karbytes2026_0 at 11:59PM Pacific Standard Time on 24_NOVEMBER_2025)
+karbytes_nexus_[24nov2025]
+
+Sincerely,
+karbytes
