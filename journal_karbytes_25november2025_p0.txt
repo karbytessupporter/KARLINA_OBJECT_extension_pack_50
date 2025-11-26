@@ -1,0 +1,7 @@
+0 = 0 // true if abstract
+
+0 != 0 // true if physical 
+
+// first equivalence implies that both instances of the same symbol (i.e. "variable") imply the exact same meaning (i.e. "data" which both "variables" point to).
+
+// second equivalence implies that both instances of the same symbol are not the same literal instance (despite looking phenomenally identical)
