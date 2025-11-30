@@ -1,0 +1,23 @@
+/**
+ * file: journal_karbytes_29november2025_p0.txt
+ * type: plain-text
+ * date: 29_NOVEMBER_2025
+ * author: karbytes
+ * license: PUBLIC_DOMAIN
+ */
+
+To Whom It May Concern:
+
+After the karbytes micro-directory associated with the @karlinarayberinger GitHub repository named KARLINA_OBJECT_extension_pack_49 was officially deemed by its creator to be in its final state (as of 11:59PM Pacific Standard Time on 18_NOVEMBER_2025), it was assumed that karbytes would not be officially updated until some point in time between 12:00AM Pacific Standard Time on 01_JANUARY_2026 and 11:59PM Pacific Standard Time on 07_JANUARY_2026. As of 4:20PM Pacific Standard Time on 29_NOVEMBER_2025, the aforementioned (sole) author (of karbytes) decided to end that hiatus period before the end of the year 2025 in order to carry on with normal (full-capacity; no holding back) activity levels pertaining to the upkeep and expansion of karbytes (the web-based empire consisting of publicly-available digital files curated and often originally produced by that author (whose "social-interfacing name" is Kar Beringer (and whose online alias/cyberspace-based brand name is karbytes))).
+
+For a comprehensive overview of what constitutes karbytes, visit the following karbytes web pages:
+
+reference_web_page_0: https://karbytesforlifeblog.wordpress.com/about_karbytes/
+
+reference_web_page_1: https://karbytesforlifeblog.wordpress.com/mdisc_karbytes2025_22/
+
+reference_web_page_2: https://karbytesforlifeblog.wordpress.com/mdisc_karbytes2026_0/
+
+Sincerely,
+karbytes
+
