@@ -8,7 +8,7 @@ Directory: karbytes2026_0
 
 file_0: KARBYTES_BLOG_APPS_github_hosted_website-main_02december2025.zip // SHA-256: 398556a34f983539c632b60050f46e7f02fb9eaccb1547026c52582354fd1269
 
-file_1: karbytes_wayback_machine_saves_precision_batches_extension_1-main_04december2025.zip // SHA-256: 1a88d1db5bae1ed86f6ec889401575ffc91a5061e31af4d991ba92c71f587e2c
+file_1: karbytes_wayback_machine_saves_precision_batches_extension_1-main_04december2025.zip // SHA-256: fadcd9c57a2b0a772458fc20a25744db6e1ca630fb7718474bc268c27464fab1
 
 file_2: karbytes_23AndMe_Ancestry_Data-main.zip // SHA-256: 5ebb70778d901ec6630dcee2eab1d53657aebe31bb210940a698049d78e5f6ec
 
@@ -16,7 +16,7 @@ file_3: KARLINA_OBJECT_extension_pack_49-main.zip // SHA-256: 78a2da229d94f28967
 
 file_4: karbytes_dark_websites-main.zip // SHA-256: e7040d2be96177060074883447a0f4f44b7cef4f4614ae33e676b498002d2c90
 
-file_5: KARLINA_OBJECT-main.zip // SHA-256: 032a91e717549d9153873c9e3dfe737b1b3ed2489acf338869354a240e754952
+file_5: KARLINA_OBJECT-main.zip // SHA-256: 236593ce2ec5c3ef30821dc8b28e60eb1bb47ac9d7d10ec11351413d6d681e74
 
 file_6: karbytes_human_genome_fasta_part_0-main.zip // SHA-256: f743c543a0337ee622324c652b2e03f2f9db7924e8680bc7aa7fa16919260591
 
@@ -36,13 +36,13 @@ file_13: karbytes_human_genome_fasta_part_3-main.zip // SHA-256: 6a1784e76fe015a
 
 file_14: karbytes_human_genome_fasta_part_1-main.zip // SHA-256: d7244d820a119b4b267aea7bf8104d0c7a0e03854c3319a7a7f03264085ce772
 
-file_15: KARLINA_OBJECT_extension_pack_50-main_04december2025.zip // SHA-256: f3c69caa8d49ef5ba452476b23ba94698340263ff199e6243e6436f38a150da2
+file_15: KARLINA_OBJECT_extension_pack_50-main_04december2025.zip // SHA-256: 61d6b7da6b439c2ccb9f813f699eb9f0f7e217a7a1472cfe2af9f2efa515f950
 
 file_16: KARBYTES_SOFTWARE_ENGINEERING_PORTFOLIO-main_02december2025.zip // SHA-256: 14106852dcf55579982c48a6c1c2d48ba76bdfece26aece07df429aa66319301
 
 file_17: KARLINA_OBJECT_APPS-main.zip // SHA-256: ef6c27b9ff75bc56b23e881d1766791827fad78e2f0fbc62e0f89bf02c50db3c
 
-file_18: KARBYTES_FOR_LIFE_BLOG-main_04december2025.zip // SHA-256: bfe67688729398c5a9701aee61b022ed478d8582c1262a499d6da61582cf36dd
+file_18: KARBYTES_FOR_LIFE_BLOG-main_04december2025.zip // SHA-256: 3417d93bf66fdf1c9a173f668aa155e7ebba7d92e34f2cddb44c1185f45a3763
 
 file_19: karbytes_wayback_machine_saves_precision_batches_extension_0-main.zip // SHA-256: 643447c91f7d1f85b8b75536dac0f9dfc24ca131528e0b18f966043c10c06ae4
 
