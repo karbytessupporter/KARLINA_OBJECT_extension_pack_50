@@ -42,7 +42,7 @@ file_16: KARBYTES_SOFTWARE_ENGINEERING_PORTFOLIO-main_02december2025.zip // SHA-
 
 file_17: KARLINA_OBJECT_APPS-main.zip // SHA-256: ef6c27b9ff75bc56b23e881d1766791827fad78e2f0fbc62e0f89bf02c50db3c
 
-file_18: KARLINA_OBJECT_extension_pack_50-main_05december2025.zip // SHA-256: b8fcf8bfbfc9779fb385b033ea88edd0a14501226096d8d8dbbf5b04fb7f096f
+file_18: KARLINA_OBJECT_extension_pack_50-main_05december2025.zip // SHA-256: f4c7e5a3b9982b79d411f2a51c28f884ff47486161c028058817e7109f20e359
 
 file_19: karbytes_wayback_machine_saves_precision_batches_extension_0-main.zip // SHA-256: 643447c91f7d1f85b8b75536dac0f9dfc24ca131528e0b18f966043c10c06ae4
 
