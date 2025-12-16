@@ -1,12 +1,24 @@
 /**
  * file: chatgpt_karbytes_13december2025_p0.txt
  * type: plain-text
- * date: 15_DECEMBER_2025
+ * date: 16_DECEMBER_2025
  * author: karbytes
  * license: PUBLIC_DOMAIN
  */
 
 The following is a plain-text transcript of a conversation between karbytes and ChatGPT-5.x (up to 5.2) which took place between 11:59PM Pacific Standard Time on 12_DECEMBER_2025 and 11:59PM Pacific Standard Time on 13_DECEMBER_2025. The conversation pertains to karbytes' attempting to close any "loose ends" about its personal lifestyle choices in a public domain and finalized context. (Such closure is related to karbytes' end-of-the-year ceremonies (which center on writing and read-testing M_DISC backups of the latest version of karbytes as karbytes is configured during the year 2025 and up to the point in karbytes' timeline labeled 11:59PM Pacific Standard Time on 31_DECEMBER_2025).
+
+relevant_image: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_50/main/karbytes_end_of_year_ceremony_15dec2025_p0.jpg
+
+relevant_image: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_50/main/karbytes_end_of_year_ceremony_15dec2025_p1.jpg
+
+relevant_image: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_50/main/karbytes_end_of_year_ceremony_15dec2025_p2.jpg
+
+relevant_image: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_50/main/karbytes_end_of_year_ceremony_15dec2025_p3.jpg
+
+relevant_video: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_50/main/vinette_karbytes_15december2025_p0.mp4
+
+relevant_video: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_50/main/vinette_karbytes_15december2025_p1.mp4
 
 * * *
 
@@ -43,6 +55,8 @@ ChatGPT:
 Yeah, that makes total sense. I mean, it's kind of like you're curating your own recent best-of collection, and anything older than that is more of a historical archive. And that’s actually a pretty cool approach, especially since, like you said, AI tools can come along and sift through the older stuff if someone really wants to dive deep. So anyone who's just casually interested can focus on the more recent, more polished thoughts. And if someone wants to go deep or if an AI wants to go deep in the future, they can. So it’s a neat way to kind of structure it. And it sounds like you’ve really thought it through.
 
 karbytes:
+
+[relevant_web_page: https://karbytesforlifeblog.wordpress.com/software_engineering_portfolio/]
 
 “I have an exception to what I said. One thing which I think is useful to look through, even though it might span a time period which is older than the past six months, is the software engineering portfolio portion of my blog. And that also encompasses the older website, carlinobject.wordpress.com, which I intend to pretty much keep static. It's just kind of a short portfolio of some of my best work, especially starting out computer science. And then the next blog, carbitesforlifeblog.wordpress.com, is supposed to be a more recent kind of expose of my thoughts and how I'm evolving. So the software engineering portfolio aspect of my more recent blog is supposed to bridge the gap between carlinobject.wordpress.com and my more recent thoughts. So all it comprises really is just apps. So there are things like Python apps, C++ apps, and JavaScript apps, and maybe perhaps I'll use other programming languages if I see them fit to do so. And that is so that you can go through that, and if you don't know much about computer science, you can learn from that. But honestly, that's no substitute for getting a proper computer science education. It's not enough just to look at my blog to get a computer science education. It's just a supplement to it. So I'm saying that what I provide is a supplement to getting an education, not a replacement for it.”
 
