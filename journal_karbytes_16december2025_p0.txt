@@ -1,0 +1,18 @@
+/**
+ * file: journal_karbytes_16december2025_p0.txt
+ * type: plain-text
+ * date: 16_DECEMBER_2025
+ * author: karbytes
+ * license: PUBLIC_DOMAIN
+ */
+
+To Whom It May Concern:
+
+The following is a rule which karbytes generally follows when curating its micro-directory website segments: do not remove any files nor any content from files which have already been added to the respective micro-directory (except for correcting syntax errors or semantic errors in a manner which maximally preserves the original content in the respective file).
+
+Pragmatically speaking, this note implies that all the files which are currently in the micro-directory of karbytes named raw_github_files_directory_KARLINA_OBJECT_extension_pack_50 (and hosted in the associated @karlinarayberinger-owned public GitHub repository named KARLINA_OBJECT_extension_pack_50) will essentially remain in tact indefinitely into the future even while new files and/or new file content is added to that micro-directory. 
+
+Finally, karbytes does not plan on closing that micro-directory to further changes until after 11:59PM Pacific Standard Time on 07_JANUARY_2026. That is to ensure that the respective micro-directory acts as a generously large hiatus gap between the last 2025 karbytes updates and the first 2026 karbytes updates. (The "dark" period encompassing the upcoming New Year's Eve at 12:00AM Pacific Standard Time on 01_JANUARY_2026 in which karbytes appears to be static on the public World Wide Web is intended to be a time in which karbytes (a) takes care of end-of-the-year practical matters, (b) indulges in recreational and spiritual activities, and (c) potentially develops new content to incorporate into karbytes after that ~2 week hiatus period ends).
+
+Sincerely,
+karbytes
