@@ -24,7 +24,7 @@ file_7: the_big_green_thing_2025-main.zip // SHA-256: 06d428dc8abb478c4116ddd958
 
 file_8: KARBYTES_FOR_LIFE_BLOG-main_16december2025.zip // SHA-256: af7eb2d7bdf8e0d06ba6a551fef7ac51708c9c4a6d61fd8bc1572e71ff908452
 
-file_9: KARLINA_OBJECT_extension_pack_50-main_16december2025.zip // SHA-256: 22b08b04eb347cce70b5da7e3ea0f0b558ae4fd89784e3c586df80e1c0d4075c
+file_9: KARLINA_OBJECT_extension_pack_50-main_16december2025.zip // SHA-256: c77e23524dba3785aeb1130c594a5810a44ab6db604895a78bd019624c008c6d
 
 file_10: KARBYTES_BLOG_APPS-main_02december2025.zip // SHA-256: e40df914912396d6516b21fd091338413e363f1e0c11ee05af48bb2fdd7c1a67
 
