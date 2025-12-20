@@ -18,7 +18,7 @@ file_4: karbytes_dark_websites-main.zip // SHA-256: e7040d2be96177060074883447a0
 
 file_5: KARLINA_OBJECT-main.zip // SHA-256: 236593ce2ec5c3ef30821dc8b28e60eb1bb47ac9d7d10ec11351413d6d681e74
 
-file_6: KARLINA_OBJECT_extension_pack_50-main_19december2025.zip // SHA-256: 5dcc64ceac2ad8e5b1fade71bb22f7b632b27021fc7b447ff84a93f19c6adfa0
+file_6: KARLINA_OBJECT_extension_pack_50-main_19december2025.zip // SHA-256: 1c4e0c1cdd41024cd75178c2dcbbc60991cb572692aa5b9c72e8b3965acf7ae2
 
 file_7: karbytes_human_genome_fasta_part_0-main.zip // SHA-256: f743c543a0337ee622324c652b2e03f2f9db7924e8680bc7aa7fa16919260591
 
