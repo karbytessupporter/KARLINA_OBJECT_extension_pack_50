@@ -8,6 +8,8 @@
 
 The following is a plain-text transcript of a conversation between karbytes and ChatGPT-5.2 which took place between 11:59PM Pacific Standard Time on 27_DECEMBER_2025 and 11:59PM Pacific Standard Time on 28_DECEMBER_2025. The conversation pertains to karbytes' preparing for the new year (especially in shifting the focus of its blog from predominantly personal and eclectic subject matter to predominantly self-contained and educational software applications).
 
+relevant_web_page: https://karbytesforlifeblog.wordpress.com/software_engineering_portfolio/
+
 * * *
 
 karbytes:
