@@ -2,7 +2,7 @@
 # file: invert_image_rgb.py
 # type: Python
 # date: 30_DECEMBER_2025
-# author: karbytes (style-adapted example)
+# author: karbytes 
 # license: PUBLIC_DOMAIN
 #########################################################################################
 
