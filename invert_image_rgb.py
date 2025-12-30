@@ -1,7 +1,7 @@
 #########################################################################################
 # file: invert_image_rgb.py
 # type: Python
-# date: 29_DECEMBER_2025
+# date: 30_DECEMBER_2025
 # author: karbytes (style-adapted example)
 # license: PUBLIC_DOMAIN
 #########################################################################################
@@ -45,17 +45,17 @@ def invert_image_rgb(input_image_path, output_image_path):
             inverted_b = 255 - b
 
             pixels[x, y] = (inverted_r, inverted_g, inverted_b)
-
+            #end of for loop definition
+    
     # Save the modified image.
     image.save(output_image_path)
 
     print(f"\n\nInverted image written to: {output_image_path}")
     print("\n\n--------------------------------\n\n")
-
+    # end of function definition
 
 # Set file paths.
 input_image_path = "abstract_drawing_karbytes_26december2025_p0.jpg"      # Replace with your actual image path.
-
 output_image_path = "input_image_inverted.png"
 
 # Execute the function defined in this program file.
