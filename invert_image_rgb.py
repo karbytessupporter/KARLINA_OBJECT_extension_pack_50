@@ -45,7 +45,7 @@ def invert_image_rgb(input_image_path, output_image_path):
             inverted_b = 255 - b
 
             pixels[x, y] = (inverted_r, inverted_g, inverted_b)
-            #end of for loop definition
+            #end of nested for loop definition
     
     # Save the modified image.
     image.save(output_image_path)
