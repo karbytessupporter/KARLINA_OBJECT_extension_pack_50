@@ -151,3 +151,51 @@ ChatGPT:
 This program deterministically transforms a raster image by loading it from a specified filesystem location, validating that the file exists, and normalizing it into RGB color space. It then traverses the image exhaustively at the pixel level, replacing each red, green, and blue component with its arithmetic complement relative to the fixed 8-bit maximum value (255), thereby producing a complete color inversion of the original data. The process is fully explicit, non-destructive with respect to the source file, and concludes by writing the transformed image to a new output file while emitting minimal diagnostic messages to document execution state and outcome.
 
 [...]
+
+karbytes:
+
+During the generation of color inverted values in the nested for loop, what happens if any of those inverted values is initially negative?
+
+ChatGPT:
+
+In the **specific program as written**, an inverted value can **never be negative**, so that situation simply does not occur.
+
+Here’s why:
+
+* Each pixel channel value `r`, `g`, and `b` in an RGB image is guaranteed to be an integer in the range **0–255**
+* The inversion formula used is:
+
+  ```python
+  inverted = 255 - value
+  ```
+* Therefore:
+
+  * If `value = 255`, result = `0`
+  * If `value = 0`, result = `255`
+  * If `value = 128`, result = `127`
+
+Mathematically, this operation maps the closed interval **[0, 255] → [0, 255]** exactly.
+No subtraction can ever yield a negative result.
+
+---
+
+### What if a negative value *did* occur (hypothetically)?
+
+If you were to assign a negative value to a pixel channel in an 8-bit Pillow image, one of two things would happen depending on context:
+
+* **Pillow clamps the value** to the valid range
+
+  * Values `< 0` become `0`
+  * Values `> 255` become `255`
+* The image remains valid, but the value is coerced silently
+
+So even in a malformed or experimental case, Pillow prevents invalid pixel data from propagating.
+
+---
+
+### Why this matters conceptually (karbytes framing)
+
+The inversion logic is **range-preserving**, **deterministic**, and **closed under the representation’s constraints**. There is no need for bounds checking because the mathematical operation itself guarantees validity. This is a desirable property: correctness is enforced by construction rather than by defensive programming.
+
+In short:
+**Negative inverted values cannot occur in this program, and even if they somehow did, the imaging system would constrain them back into a valid state.**
