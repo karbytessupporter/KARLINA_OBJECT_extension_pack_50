@@ -475,8 +475,3 @@ formalize failure cases (when this goes wrong),
 relate this to mental health boundaries,
 
 or express it as a practical decision rule you can actually apply.
-
-
-
-No file chosenNo file chosen
-ChatGPT can make mistakes. Check important info.
